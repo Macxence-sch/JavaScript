@@ -17,7 +17,7 @@ body{
 .container{
     position: relative;
     width: 400px;
-    height: 505px;
+    height: 105px;
     background: #fff;
     padding: 28px 32px;
     overflow: hidden;
@@ -173,7 +173,7 @@ body{
     opacity: 0;
 }
 
-.fade-id{
+.fadeIn{
     animation: 0.5s fadeIn forwards;
     animation-delay: 0.5s;
 }
