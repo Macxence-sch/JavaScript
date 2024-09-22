@@ -1,1 +1,1 @@
-Dans ce dossier il y aura tout mes petits test sur le JavaScript
+Dans ce dossier il y aura tout les petits test (de moi ou trouver sur internet) sur le JavaScript
